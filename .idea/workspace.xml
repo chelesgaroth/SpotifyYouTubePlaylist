@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42fb67b-e423-472e-890f-4f8b883ba8e4" name="Default Changelist" comment="" />
+    <list default="true" id="e42fb67b-e423-472e-890f-4f8b883ba8e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/secrets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreatePlaylist.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreatePlaylist.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +43,33 @@
       <updated>1598533296179</updated>
       <workItem from="1598533297687" duration="3448000" />
       <workItem from="1602347430834" duration="8000" />
+      <workItem from="1602355305869" duration="133000" />
+      <workItem from="1602621246490" duration="7000" />
+      <workItem from="1607873089218" duration="241000" />
+      <workItem from="1608147276744" duration="37000" />
+      <workItem from="1608385292736" duration="6000" />
+      <workItem from="1609591259692" duration="598000" />
+      <workItem from="1610645731318" duration="6000" />
+      <workItem from="1611339996647" duration="599000" />
+      <workItem from="1611604603539" duration="599000" />
+      <workItem from="1614071499213" duration="307000" />
+      <workItem from="1614071980891" duration="44000" />
+      <workItem from="1615560335503" duration="4262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1598971024120">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1598971024120" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
